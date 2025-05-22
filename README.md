@@ -23,9 +23,4 @@ Sansa is an AI-powered assistant designed to help users create high-quality cont
 🔹 Groq API – Backend model processing  
 🔹 GitHub & Streamlit Cloud – Deployment and version control  
 
-## 🚀 Getting Started  
-
-### 1️⃣ Clone the Repository  
-```bash
-git clone https://github.com/your-username/Sansa-AI-Assistant.git  
-cd Sansa-AI-Assistant  
+## 🚀 Getting Started
